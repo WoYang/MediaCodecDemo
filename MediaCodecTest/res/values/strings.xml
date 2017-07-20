@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MediaCodecTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="codec_fail">编码失败</string>
+    <string name="codec_execute">正在编码....</string>
+    <string name="codec_success">编码成功</string>
+
+</resources>
